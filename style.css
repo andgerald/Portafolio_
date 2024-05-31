@@ -1,0 +1,15 @@
+body,
+html {
+  background-color: wheat;
+  height: 100%;
+}
+
+.color {
+  background-color: aqua;
+}
+.prueba {
+  height: 100vh;
+}
+row {
+  height: 100%;
+}
